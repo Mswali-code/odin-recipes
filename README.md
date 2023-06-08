@@ -1,4 +1,9 @@
-#Odin recipes
+Mswali's Odin Recipes
 
-This project is meant to touch base on my current html knowledge.
-I create an html file for a recipe,add links and descriptive images to the page.  
+This is my very first Odin assignment,
+meant as a touch base on my HTML skills.
+I have created a simple recipe web page featuring my fav dishes.
+Fan way to dive into the world of HTML!
+
+
+
